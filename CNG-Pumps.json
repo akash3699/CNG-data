@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Lt. col. Shaheed Prakash Patil",
+    "location": "Ambegaon",
+    "area": "PMC",
+    "cluster": "Pune - Banglore Highway Highway - 48",
+    "latitude": null,
+    "longitude": null,
+    "map_url": "https://www.google.com/maps/place/18%C2%B027'27.3%22N%2073%C2%B049'44.2%22E"
+  },
+  {
+    "name": "Vardhman Petrol Depot",
+    "location": "Warje",
+    "area": "PMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": null,
+    "longitude": null,
+    "map_url": "https://www.google.com/maps/place/18%C2%B028'58.7%22N%2073%C2%B048'08.1%22E"
+  },
+  {
+    "name": "Chaudhary CNG",
+    "location": "Warje",
+    "area": "PMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": null,
+    "longitude": null,
+    "map_url": "https://www.google.com/maps/place/18%C2%B028'56.2%22N%2073%C2%B048'11.0%22E"
+  },
+  {
+    "name": "Sai Sayaji Service",
+    "location": "Paud Road",
+    "area": "PMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": "18.50721837343238",
+    "longitude": "73.80262024617585",
+    "map_url": "https://www.google.com/maps/place/18.50721837343238,%2073.80262024617585"
+  },
+  {
+    "name": "LMD CNG",
+    "location": "Bavdhan",
+    "area": "PMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": null,
+    "longitude": null,
+    "map_url": "https://www.google.com/maps/place/18%C2%B030'40.6%22N%2073%C2%B046'15.7%22E"
+  },
+  {
+    "name": "E-Way Siddhivinayak",
+    "location": "Punawale",
+    "area": "PCMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": null,
+    "longitude": null,
+    "map_url": "https://www.google.com/maps/place/18%C2%B038'22.1%22N%2073%C2%B044'18.3%22E"
+  },
+  {
+    "name": "Sai Expressway Service",
+    "location": "Tathawade",
+    "area": "PCMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": null,
+    "longitude": null,
+    "map_url": "https://www.google.com/maps/place/18%C2%B037'41.4%22N%2073%C2%B044'34.3%22E"
+  },
+  {
+    "name": "SK Enterprise",
+    "location": "tathawade",
+    "area": "PCMC",
+    "cluster": "Pune - Banglore HighwayHighway - 48",
+    "latitude": "18.630618789053543",
+    "longitude": "73.74291999023924",
+    "map_url": "https://www.google.com/maps/place/18.630618789053543,%2073.74291999023924"
+  }
+]
